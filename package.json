@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vibhor-trantor/bootstrap-material-design.git"
+    "url": "https://github.com/vibhor-trantor/bootstrap-material-design-namespace.git"
   },
   "author": "Federico Zivolo",
   "bugs": {
-    "url": "https://github.com/vibhor-trantor/bootstrap-material-design/issues"
+    "url": "https://github.com/vibhor-trantor/bootstrap-material-design-namespace/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -25,7 +25,7 @@
     "browser",
     "framework"
   ],
-  "homepage": "https://github.com/vibhor-trantor/bootstrap-material-design",
+  "homepage": "https://github.com/vibhor-trantor/bootstrap-material-design-namespace",
   "dependencies": {
     "bootstrap": ">=3.0",
     "jquery": ">=1.9.1"
